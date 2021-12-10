@@ -1,0 +1,12 @@
+SSID: JTMAT-Students
+Protocol: Wi-Fi 4 (802.11n)
+Security type: WPA2-Enterprise
+Type of sign-in-info: Microsoft: Protected EAP (PEAP)
+Band: 5 GHz
+Channel: 100
+Speed: 
+Link-local IPv6: fe80::e1b3:1a4d:747c:3b9a%5
+IPv4: 10.150.113.236
+IPv4 DNS:   10.150.97.154
+            10.150.97.155
+Primary DNS suffix: jths.internal
