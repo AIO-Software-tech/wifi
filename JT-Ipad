@@ -1,0 +1,10 @@
+JT-Ipads
+IPv4: 10.150.101.10
+bssid: e2:63:da:b2:2b:e1
+Security: PSK (WPA or RSN)
+Frequency: 5805
+Routing prefix: 255.255.224.0
+Gateway: 10.150.96.1
+Automatic name servers: 10.150.97.154, 10.150.97.155
+MAC address: AC:89:95:EC:BF:47
+
