@@ -10,3 +10,6 @@ IPv4: 10.150.113.236
 IPv4 DNS:   10.150.97.154
             10.150.97.155
 Primary DNS suffix: jths.internal
+
+
+6.tcp.eu.ngrok.io:10033
